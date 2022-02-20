@@ -1,0 +1,18 @@
+{
+  "subscriptions": [
+    {
+      "id": "9jjmuz",
+      "url": "https://www.vinted.be/vetements?search_text=&size_id[]=207&size_id[]=208&price_from=1&currency=EUR&price_to=100&brand_id[]=2319",
+      "channelID": "944937174640496660"
+    },
+    {
+      "id": "3x32j",
+      "url": "https://www.vinted.be/vetements?search_text=jordan%20one&price_from=1&currency=EUR&price_to=100&brand_id[]=53&catalog[]=1231&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785",
+      "channelID": "944938878941405256"
+    }
+  ],
+  "is_first_sync": false,
+  "last_item_ts_kbea0p": 1645361015000,
+  "last_item_ts_9jjmuz": 1645361807000,
+  "last_item_ts_3x32j": 1645358432000
+}
