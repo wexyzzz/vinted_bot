@@ -83,6 +83,7 @@ const syncSubscription = (sub) => {
             const itemsToSend = ((lastItemTimestamp && !isFirstSync) ? items.reverse() : [items[0]]);
 
             for (let item of itemsToSend) {
+                console.log(item);
                 const embed = new Discord.MessageEmbed()
                     .setTitle(item.title)
                     .setURL(`https://www.vinted.fr${item.path}`)
